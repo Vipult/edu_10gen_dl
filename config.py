@@ -1,6 +1,6 @@
-EMAIL = 'your-email@he.re'
-PASSWORD='password'
-DOMAIN='courses.edx.org'
+EMAIL = 'vipul.tulsulkar@gmail.com'
+PASSWORD='supernova'
+DOMAIN='education.10gen.com'
 #DOMAIN='education.10gen.com'
 
 
